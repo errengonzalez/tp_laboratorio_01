@@ -41,7 +41,8 @@ switch (opcion) {
 
 
 }while(salir !=0);
-	//puts("!!!PRIMER TRABAJO 2022 !!!"); /* prints !!!Hello World!!! */
+
+puts("!!!nuevo cambio!!!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
 void menu(){
